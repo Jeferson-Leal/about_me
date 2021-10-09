@@ -1,13 +1,13 @@
 # about_me
 
-## Hi I'm Jeferson Leal, Programmer!
+## Hi I'm Jeferson Leal, Java Programmer!
 <div align="center">
   <a href="https://github.com/jeferson-leal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeferson-leal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeferson-leal&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
- ## Technogies
+  ## Technologies
 
 <div style="display: inline_block"><br>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
@@ -29,9 +29,9 @@
   
   <img />
 
-  <div style="display: inline_block"><br>
-  <a href ="mailto:jeferson.gleal@outlook.com"><img src="https://img.icons8.com/color/40/000000/microsoft-outlook-2019--v2.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jeferson-leal/" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" target="_blank"></a> 
+  <div> 
+  <a href ="mailto:jeferson.gleal@outlook.com"><img src="https://img.icons8.com/color/42/000000/microsoft-outlook-2019--v2.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jeferson-leal/"><img src="https://img.icons8.com/external-justicon-flat-justicon/34/000000/external-linkedin-social-media-justicon-flat-justicon.png" target="_blank"></a> 
  
  ![Snake animation](https://github.com/jeferson-leal/about_me/blob/output/github-contribution-grid-snake.svg)
     
