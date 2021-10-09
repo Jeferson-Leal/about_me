@@ -30,8 +30,8 @@
   <img />
 
   <div> 
-  <a href ="mailto:jeferson.gleal@outlook.com"><img src="https://img.icons8.com/color/42/000000/microsoft-outlook-2019--v2.png" target="_blank" width="42" height="42></a>
-  <a href="https://www.linkedin.com/in/jeferson-leal/"><img src="https://img.icons8.com/external-justicon-flat-justicon/34/000000/external-linkedin-social-media-justicon-flat-justicon.png" target="_blank" width="42" height="42></a> 
+  <a href ="mailto:jeferson.gleal@outlook.com"><img src="https://img.icons8.com/color/42/000000/microsoft-outlook-2019--v2.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jeferson-leal/"><img src="https://img.icons8.com/cute-clipart/42/000000/linkedin.png" target="_blank"></a> 
  
  ![Snake animation](https://github.com/jeferson-leal/about_me/blob/output/github-contribution-grid-snake.svg)
     
