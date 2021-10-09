@@ -29,7 +29,7 @@
   <img />
   <div> 
   <a href ="mailto:jeferson.gleal@outlook.com"><img src="https://img.icons8.com/color/42/000000/microsoft-outlook-2019--v2.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jeferson-leal/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/jeferson-leal/"><img src="https://img.icons8.com/fluency/42/000000/linkedin.png" target="_blank"></a> 
  
  ![Snake animation](https://github.com/jeferson-leal/about_me/blob/output/github-contribution-grid-snake.svg)
     
