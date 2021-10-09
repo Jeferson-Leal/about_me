@@ -1,13 +1,13 @@
 # about_me
 
-## Hi I´m Jeferson Leal, Java Programmer!
+## Hi I'm Jeferson Leal, Programmer!
 <div align="center">
   <a href="https://github.com/jeferson-leal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeferson-leal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeferson-leal&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-  
+ ## Technogies
 
 <div style="display: inline_block"><br>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
@@ -25,7 +25,7 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42"/>
 </div>
   
-  ##
+  ## Contact
   
   <img />
 
