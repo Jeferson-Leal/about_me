@@ -1,10 +1,10 @@
-# about_me
+# About me...
 
 ## Hi I'm Jeferson Leal, Java Programmer!
-<div align="center">
+<div align="inline_block">
   <a href="https://github.com/jeferson-leal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeferson-leal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeferson-leal&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeferson-leal&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeferson-leal&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   ## Technologies
@@ -14,8 +14,7 @@
    <img src="https://img.icons8.com/color/42/000000/docker.png" alt="Docker" width="42" height="42"/>
    <img src="https://img.icons8.com/color/42/000000/amazon-web-services.png" alt="Docker" width="42" height="42"/>
    <img src="https://img.icons8.com/office/42/000000/accept-database.png" alt="Oracle SQL" width="42" height="42"/>
-   <img src="https://img.icons8.com/color/42/000000/mongodb.png" alt="Oracle" width="42" height="42"/>
-   <img src="https://img.icons8.com/color/42/000000/java-coffee-cup-logo--v1.png" alt="java" width="42" height="42"/> 
+   <img src="https://img.icons8.com/nolan/42/java-coffee-cup-logo.png" alt="java" width="42" height="42"/> 
    <img src="https://img.icons8.com/color/42/000000/spring-logo.png" alt="Spring" width="42" height="42"//>
    <img src="https://img.icons8.com/officel/42/000000/java-eclipse.png" alt="Eclipse" width="42" height="42"/>
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42"/> 
@@ -28,8 +27,9 @@
   ## Contact
   <img />
   <div> 
-  <a href ="mailto:jeferson.gleal@outlook.com"><img src="https://img.icons8.com/color/42/000000/microsoft-outlook-2019--v2.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jeferson-leal/"><img src="https://img.icons8.com/fluency/42/000000/linkedin.png" target="_blank"></a> 
+  <a href ="mailto:jeferson.gleal@outlook.com"><img src="https://img.icons8.com/color/36/000000/microsoft-outlook-2019--v2.png" target="_blank"> </a>
+  <a href="https://discord.gg/xMv6eSFaSN/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>      
+  <a href="https://www.linkedin.com/in/jeferson-leal/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
  
  ![Snake animation](https://github.com/jeferson-leal/about_me/blob/output/github-contribution-grid-snake.svg)
     
