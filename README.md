@@ -26,8 +26,7 @@
   
   ## Contact
   <img />
-  <div> 
-  <a href ="mailto:jeferson.gleal@outlook.com"><img src="https://img.icons8.com/color/36/000000/microsoft-outlook-2019--v2.png" target="_blank"> </a>
+  <div align="center"> 
   <a href="https://discord.gg/xMv6eSFaSN/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>      
   <a href="https://www.linkedin.com/in/jeferson-leal/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
  
