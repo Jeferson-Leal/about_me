@@ -1,7 +1,7 @@
 # About me...
 
 ## Hi I'm Jeferson Leal, Java Programmer!
-<div align="inline_block">
+<div align="center">
   <a href="https://github.com/jeferson-leal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeferson-leal&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeferson-leal&layout=compact&langs_count=7&theme=dark"/>
@@ -9,7 +9,7 @@
 
   ## Technologies
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
    <img src="https://img.icons8.com/color/42/000000/docker.png" alt="Docker" width="42" height="42"/>
    <img src="https://img.icons8.com/color/42/000000/amazon-web-services.png" alt="Docker" width="42" height="42"/>
